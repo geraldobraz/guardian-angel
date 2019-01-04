@@ -1,6 +1,6 @@
 # Guardian Angel
 
-This work is a project developed by @blva and @geraldobraz applying the techniques and knowledge aquired on the classes: 
+This work is a project developed by [@blva](https://github.com/blva) and [@geraldobraz](https://github.com/geraldobraz) applying the techniques and knowledge aquired on the classes: 
 * Real Time Operational Systems Development 
 * Embedded System Projects
 
